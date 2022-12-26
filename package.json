@@ -1,7 +1,7 @@
 {
   "name": "secondapp",
   "version": "0.1.0",
-  "homepage": "https://rdtungul.github.io/react-portfolio/",
+  "homepage": "https://rdtungul.github.io/portfolio-react/",
   "private": true,
   "dependencies": {
     "@chakra-ui/react": "^2.3.2",
