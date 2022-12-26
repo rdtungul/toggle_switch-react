@@ -1,13 +1,20 @@
-label {
-  font-size: 16px;
+.App {
+  display: flex;
+  padding: 16px;
+  flex-direction: column;
+  min-height: 100vh;
 }
 
-input.form-control, input.form-control:focus {
-  background-color: #f0f0ff
+header {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
 }
 
-.error {
-  position: absolute;
-  color: tomato;
-  font-size: 14px;
+.Feed {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding-top: 100px;
 }
